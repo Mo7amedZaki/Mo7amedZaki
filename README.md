@@ -21,7 +21,7 @@ Currently coding & learning new technologies 🚀
 
 ### 🚀 About Me
 
-- 🎓 Student at **Faculty of Computers & Information**
+- 🎓 Computer Science Student | Faculty of Computers and Information
 - 💻 Studied **Frontend & Backend using .NET**
 - 🌱 Currently learning **Node.js & Flutter**
 - 🧠 Interested in **Problem Solving & Software Architecture**
