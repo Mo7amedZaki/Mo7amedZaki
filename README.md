@@ -1,65 +1,32 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <h2>👋 Hi, I'm Mohamed Zaki</h2>
-<h3>Computer Science Student | .NET | Node.js | Flutter Developer</h3>
+<h3>Computer Science Student | .NET | Node.js Developer</h3>
 
 <details>
-<p><strong> <summary>  🎧 Currently vibing to:   </summary> </strong></p>
-
-Currently coding & learning new technologies 🚀
-
+  <summary>🎧 Currently vibing to:</summary>
+  Currently coding & learning new technologies 🚀
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mo7amedZaki&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
-<hr></hr>
+<hr/>
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science Student | Faculty of Computers and Information
-- 💻 Studied **Frontend & Backend using .NET**
-- 🌱 Currently learning **Node.js & Flutter**
-- 🧠 Interested in **Problem Solving & Software Architecture**
-- 🎯 Goal: Become a strong backend developer
+- 🎓 Computer Science Student | Faculty of Computers and Information  
+- 💻 Experienced in **Frontend & Backend Development using .NET**  
+- 🌱 Currently learning **Node.js**  
+- 🧠 Interested in **Problem Solving, Data Structures & Software Architecture**  
+- 🎯 Goal: Become a strong backend developer  
 
 ---
 
-### 🛠 Technologies & Skills
+## 🛠 Technologies & Skills
 
+### 🔹 Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP%20with%20C%2B%2B-blue?style=flat)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-orange?style=flat)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-
----
-
-### 💻 Code Snippet (About Me as Code)
-
-class AboutMe {
-  final String name = "Mohamed Zaki";
-  final String role = "Computer Science Student";
-
-  final List<String> languages = [
-    "C++ (OOP, Data Structures)",
-    "Python",
-    "C#",
-    "JavaScript"
-  ];
-
-  final List<String> frameworks = [
-    ".NET",
-    "Node.js",
-    "Flutter"
-  ];
-}
-
